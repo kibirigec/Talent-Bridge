@@ -1,0 +1,6 @@
+{
+  "name": "Talent Bridge",
+  "description": "Digital job application and placement tracking system for Talent Bridge Recruitment Agency in Ntinda, Kampala, Uganda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
